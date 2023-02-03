@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "710116112809",
+    "project_id": "myquizapp-29115",
+    "storage_bucket": "myquizapp-29115.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710116112809:android:b88d63d95d99265b23ecb8",
+        "android_client_info": {
+          "package_name": "io.jehad.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710116112809-7mrm0rv8g6q5umd9cmh55n43j8mui5j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.jehad.myapp",
+            "certificate_hash": "f1c1df480434af63de6bab33eeaf2cff893bf422"
+          }
+        },
+        {
+          "client_id": "710116112809-ebn1nhk8uapes32qlsi5obus6g98698t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDLEnf2afjgeosQzN_gAb9WkBQ47f8mU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710116112809-ebn1nhk8uapes32qlsi5obus6g98698t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "710116112809-2kbkmpni4h24a1ntuakf2eo5e9nrbhaq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.jehad.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
